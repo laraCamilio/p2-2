@@ -21,7 +21,7 @@ body{ /*estilizacao do corpo da pagina*/
 .cabecalho-menu{ /*estilizacao do span no cabecalho*/
     width: 24px; /*largura*/
     height: 24px;/*altura*/
-    background-color: rgb(240, 138, 4); /*cor de fundo*/
+    background-color: rgb(226, 129, 2); /*cor de fundo*/
     display: inline-block; /*alinhar os elementos em linha*/
     background-repeat: no-repeat;
     background-position: center;
